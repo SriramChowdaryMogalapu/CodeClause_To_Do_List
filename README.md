@@ -1,4 +1,4 @@
-# CodeClause_To_Do_List
+# To_Do_List
 
 A UserFriendly To-Do List.
 
