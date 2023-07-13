@@ -11,4 +11,6 @@ Marking a To-Do as Completed:-
 
          
 Removing a To-Do:-
-         Right-Click on the To-Do which you wanted to remove.
+         Right-Click on the To-Do which you wanted to remove.  
+         
+You can view the website using the link provided in the About section.
